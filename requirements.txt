@@ -1,5 +1,4 @@
 Flask
 yt_dlp
 os
-requests
 gunicorn
